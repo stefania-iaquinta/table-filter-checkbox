@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+}
+
+.container {
+    width: 70%;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    margin: 5rem 10rem;
+}
+
+li {
+  list-style-type: none;
+  margin: 0.5rem;
+}
